@@ -1,0 +1,1 @@
+include ':app-factory', ':base-library', ':feature_submission2', ':feature_submission3', ':feature_submission4', ':feature_submission1'

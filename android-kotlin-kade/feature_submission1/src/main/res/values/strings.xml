@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Football Club</string>
+    <string name="title_menu_submission2">Submisssion 2</string>
+    <string name="title_menu_coming_soon">Coming Soon</string>
+
+    <array name="club_image">
+        <item>@drawable/img_persib</item>
+        <item>@drawable/img_arema</item>
+        <item>@drawable/img_borneo</item>
+        <item>@drawable/img_madura_united</item>
+        <item>@drawable/img_mitrakukar</item>
+        <item>@drawable/img_persija</item>
+        <item>@drawable/img_persipura</item>
+        <item>@drawable/img_psis</item>
+    </array>
+
+    <string-array name="club_name">
+        <item>Persib Bandung</item>
+        <item>Arema FC</item>
+        <item>Borneo FC</item>
+        <item>Madura United</item>
+        <item>Mitra Kutai Kartanegara</item>
+        <item>Persija Jakarta</item>
+        <item>Persipura Jayapura</item>
+        <item>PSIS Semarang</item>
+    </string-array>
+</resources>

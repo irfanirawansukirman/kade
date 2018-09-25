@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.co.gits.feature_submission1">
+
+    <application>
+        <activity android:name="id.co.gits.feature_submission1.clubs.ClubActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".clubdetail.ClubDetailActivity"/>
+    </application>
+</manifest>
+
