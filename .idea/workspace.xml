@@ -6,7 +6,60 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03324cd2-398c-4a2d-acf8-b859e479923e" name="Default" comment="" />
+    <list default="true" id="03324cd2-398c-4a2d-acf8-b859e479923e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/kade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kade.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/androidTest/java/irfan_berasbdg/footballclub/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/java/irfan_berasbdg/footballclub/GlideAppModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/java/irfan_berasbdg/footballclub/clubdetail/ClubDetailActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/java/irfan_berasbdg/footballclub/clubs/Club.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/java/irfan_berasbdg/footballclub/clubs/ClubActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/java/irfan_berasbdg/footballclub/clubs/ClubAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/img_arema.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/img_borneo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/img_madura_united.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/img_mitrakukar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/img_persib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/img_persija.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/img_persipura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/drawable/img_psis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/layout/club_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/app/src/test/java/irfan_berasbdg/footballclub/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/deps.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-submisiion1/settings.gradle" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +84,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,29 +171,33 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info id="Captures" order="2" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Fabric" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Fabric" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Captures" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
